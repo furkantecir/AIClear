@@ -3,6 +3,12 @@
   <h1>AIClear</h1>
   <p>A 100% local Firefox extension for bulk deleting and archiving conversations across ChatGPT, Google Gemini, and Anthropic Claude directly from the sidebar.</p>
   <p>
+    <a href="https://addons.mozilla.org/firefox/addon/aiclear/">
+      <img src="https://img.shields.io/badge/Firefox_Add--on-Install_AIClear-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Install AIClear on Firefox Add-ons" />
+    </a>
+  </p>
+  <p>
+    <a href="https://addons.mozilla.org/firefox/addon/aiclear/">Firefox Add-ons</a> ·
     <a href="PRIVACY.md">Privacy Policy</a> ·
     <a href="https://furkantecir.com.tr/">Website</a> ·
     <a href="https://github.com/furkantecir">GitHub</a>
